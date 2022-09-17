@@ -1,2 +1,2 @@
-# exercicio-ebac
-exercio da ebac qualidade de software
+# exercícios-ebac
+exercício da ebac qualidade de software
